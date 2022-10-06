@@ -1,3 +1,5 @@
+# A simple weather app built using React, GraphQL & Apollo using the GraphQL Weather API
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
